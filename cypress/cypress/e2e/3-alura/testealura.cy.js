@@ -15,3 +15,5 @@ describe('Testar se funciona', () => {
         })
     })
 })
+
+// não é a melhor forma de escrever esse teste, a manutenção seria bem difícil, mas ainda falta bastante coisa pra eu aprender 
