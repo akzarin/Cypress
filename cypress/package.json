@@ -1,0 +1,17 @@
+{
+  "name": "cypress",
+  "version": "1.0.0",
+  "description": "tentando usar isso aqui ne",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress open"
+  },
+  "author": "eu mesma",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^10.0.2"
+  },
+  "dependencies": {
+    "mochawesome": "^7.1.3"
+  }
+}
